@@ -43,7 +43,7 @@ export default function Contact() {
             <LinkedinIcon />
             {t.contact.linkedin}
           </a>
-          <a href="/cv_frubilar.pdf" download className={styles.social}>
+          <a href={`${import.meta.env.BASE_URL}cv_frubilar.pdf`} download className={styles.social}>
             <DownloadIcon />
             {t.contact.download_cv}
           </a>
