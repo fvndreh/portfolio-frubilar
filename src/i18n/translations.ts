@@ -45,7 +45,7 @@ export const translations = {
       heading: 'Cosas que construí',
       descs: {
         oncore: 'Plataforma para gestión de clases y reservas con sistema de autenticación JWT, roles, invitaciones y bloques recurrentes.',
-        dlove: 'Aplicación web interactiva tipo caja de amor digital. Experiencia visual personalizada con animaciones y contenido especial.',
+        dlove: 'Página Web de un Box de Crossfit. Experiencia visual personalizada con animaciones y contenido especial.',
         scrapper: 'Microservicio Python para consulta y validación de RUT chileno. API REST con Flask y automatización de scraping.',
         pokeapi: 'Cliente web para explorar la PokéAPI. Filtros, búsqueda y detalle de Pokémon. HTML/CSS/JS vanilla.',
         peliculas: 'API REST en .NET para gestión de catálogo de películas. CRUD completo, autenticación y documentación Swagger.',
