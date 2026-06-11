@@ -145,7 +145,7 @@ export const translations = {
       heading: 'Things I built',
       descs: {
         oncore: 'Platform for class and booking management with JWT auth, roles, invitations and recurring blocks.',
-        dlove: 'Interactive web app — a digital love box. Personalized visual experience with animations and special content.',
+        dlove: 'Web app to crossfit box. Personalized visual experience with animations and special content.',
         scrapper: 'Python microservice for Chilean RUT lookup and validation. REST API with Flask and scraping automation.',
         pokeapi: 'Web client to explore PokéAPI. Filters, search and Pokémon detail. Vanilla HTML/CSS/JS.',
         peliculas: 'REST API in .NET for movie catalog management. Full CRUD, auth and Swagger documentation.',
